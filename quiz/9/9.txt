@@ -1,0 +1,7 @@
+9. Penetration Testing with Nmap
+Question: In Nmap, what script would be most appropriate to detect SQL injection vulnerabilities in a web application?
+* A) http-sql-injection
+* B) http-enum
+* C) sqlmap
+* D) vulnscan
+Answer: A) http-sql-injection
