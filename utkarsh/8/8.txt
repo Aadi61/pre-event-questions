@@ -1,0 +1,7 @@
+8. Network Analysis with Wireshark
+Question: When analyzing network traffic with Wireshark, which filter would you use to view only HTTP GET requests?
+* A) tcp.port == 80 && http.request.method == "GET"
+* B) http.request.method == "GET"
+* C) tcp contains "GET"
+* D) http.method == "GET"
+Answer: A) tcp.port == 80 && http.request.method == "GET"

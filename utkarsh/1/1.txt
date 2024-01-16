@@ -1,0 +1,7 @@
+1. Advanced Network Security
+Question: In network security, what is a 'man-in-the-middle' (MITM) attack primarily used for?
+* A) Denying service to legitimate users
+* B) Intercepting and modifying communication between two parties
+* C) Injecting malicious software into network traffic
+* D) Flooding the network with excessive data
+Answer: B) Intercepting and modifying communication between two parties
