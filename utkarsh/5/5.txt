@@ -1,7 +1,0 @@
-5. Advanced SQL Injection
-Question: Which technique in SQL injection can be used to bypass web application firewalls by obfuscating the payload?
-* A) Time-based blind injection
-* B) Union-based injection
-* C) Boolean-based blind injection
-* D) Stacked queries
-Answer: A) Time-based blind injection

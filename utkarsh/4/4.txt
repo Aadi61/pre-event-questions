@@ -1,7 +1,0 @@
-4. Web Exploitation Techniques
-Question: In XSS attack scenarios, what makes a DOM-based XSS attack distinct?
-* A) The payload is never sent to the server
-* B) It only affects older browsers
-* C) It requires user interaction
-* D) It involves file uploads
-Answer: A) The payload is never sent to the server

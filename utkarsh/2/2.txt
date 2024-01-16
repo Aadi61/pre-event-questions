@@ -1,7 +1,0 @@
-2. Binary Exploitation
-Question: In the context of buffer overflow attacks, what is ROP (Return-Oriented Programming)?
-* A) Executing arbitrary code by overwriting return addresses
-* B) Injecting shellcode into stack memory
-* C) Exploiting weak encryption algorithms
-* D) Hijacking the program's control flow using existing code sequences
-Answer: D) Hijacking the program's control flow using existing code sequences

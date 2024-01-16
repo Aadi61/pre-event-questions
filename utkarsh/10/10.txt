@@ -1,7 +1,0 @@
-10. Complex Wireless Security
-Question: In wireless security, what is the primary vulnerability exploited in a KRACK (Key Reinstallation Attack) against WPA2?
-* A) Weak password complexity
-* B) Flaws in the four-way handshake process
-* C) Poor encryption algorithms
-* D) Inadequate signal encryption
-Answer: B) Flaws in the four-way handshake process
