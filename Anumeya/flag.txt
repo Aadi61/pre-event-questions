@@ -1,2 +1,3 @@
+points :75
 passwd{mgr_statue}
 https://www.spammimic.com/decode.cgi
