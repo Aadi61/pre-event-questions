@@ -1,0 +1,3 @@
+Key Information:
+- Classic Cipher: Caesar Cipher (Shift: 10)
+- Modern Algorithm: XOR with Key: 0b1101101010100111
