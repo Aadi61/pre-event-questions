@@ -1,5 +1,5 @@
 Notes
 
-    Author: github/sir-pineapple
+    Author: github/u/sir-pineapple
 
     just saved myself from a hacker
