@@ -1,6 +1,7 @@
 // only main function is provided
 
 int main() {
+	initflag();
 	char pass[10];
 	int val=0;
 	char inp[15];
@@ -10,6 +11,7 @@ int main() {
 	strcpy(pass, inp);
 
 	if (val == 0xdeadbeef) {
+
 		printf("%s\n", FLAG);
 	}
 	else {
