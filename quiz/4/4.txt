@@ -3,7 +3,7 @@
 
 
 Question: In XSS attack scenarios, what makes a DOM-based XSS attack distinct?
-flag format  = passwd{Xyz_abc_bcd}
+flag format  = passwd{Option_description}
 * A) The payload is never sent to the server
 * B) It only affects older browsers
 * C) It requires user interaction
