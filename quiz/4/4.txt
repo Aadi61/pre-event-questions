@@ -10,4 +10,4 @@ Question: In XSS attack scenarios, what makes a DOM-based XSS attack distinct?
 Answer: A) The payload is never sent to the server
 
 
-In this case flag will be passwd{The_payload_is_never_sent_to_the_server}
+
