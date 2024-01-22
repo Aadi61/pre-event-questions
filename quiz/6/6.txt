@@ -1,7 +1,7 @@
 6. Web Application Testing with OWASP ZAP
 Question: When using OWASP ZAP (Zed Attack Proxy) for web application testing, what feature allows for automated scanning of web vulnerabilities?
-* A) Fuzzer
-* B) Active Scan
-* C) Spider
-* D) Breakpoints
-Answer: B) Active Scan
+1) Fuzzer
+2) Active Scan
+3) Spider
+4) Breakpoints
+Answer: 2) Active Scan
