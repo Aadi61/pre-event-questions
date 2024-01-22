@@ -1,7 +1,7 @@
 7. File Analysis with Binwalk
 Question: What is the primary use of Binwalk in cybersecurity practices?
-* A) Monitoring network traffic
-* B) Analyzing and extracting embedded files and executable code within a file
-* C) Scanning for rootkits in the system
-* D) Decrypting encrypted files
-Answer: B) Analyzing and extracting embedded files and executable code within a file
+1) Monitoring network traffic
+2) Analyzing and extracting embedded files and executable code within a file
+3) Scanning for rootkits in the system
+4) Decrypting encrypted files
+Answer: 2) Analyzing and extracting embedded files and executable code within a file
