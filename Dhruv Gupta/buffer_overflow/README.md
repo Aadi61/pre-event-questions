@@ -1,3 +1,4 @@
-*No description to provide to participant, just give vuln*
+Required libraries to run vuln:
+  /lib64/libc.so.6 
+	/lib64/ld-linux-x86-64.so.2
 
-Simply overflow the input to get the flag
