@@ -3,11 +3,11 @@
 
 
 Question: In XSS attack scenarios, what makes a DOM-based XSS attack distinct?
-* A) The payload is never sent to the server
-* B) It only affects older browsers
-* C) It requires user interaction
-* D) It involves file uploads
-Answer: A) The payload is never sent to the server
+* A) passwd{The payload is never sent to the server}
+* B) passwd{It only affects older browsers}
+* C) passwd{It requires user interaction}
+* D) passwd{It involves file uploads}
+Answer: A) passwd{The payload is never sent to the server}
 
 
 
