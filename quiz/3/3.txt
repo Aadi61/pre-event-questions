@@ -1,7 +1,7 @@
 3. Cryptographic Hash Analysis
 Question: Which of the following best describes a 'preimage attack' in cryptographic hash functions?
-1) Finding a message that corresponds to a specific hash
-2) Finding two different messages that produce the same hash
-3) Decrypting the hash to retrieve the original message
-4) Altering the message without changing the hash
-Answer: 1) Finding a message that corresponds to a specific hash
+1) passwd{Finding a message that corresponds to a specific hash}
+2) passwd{Finding two different messages that produce the same hash}
+3) passwd{Decrypting the hash to retrieve the original message}
+4) passwd{Altering the message without changing the hash}
+Answer: 1) passwd{Finding a message that corresponds to a specific hash}
