@@ -1,7 +1,7 @@
 8. Network Analysis with Wireshark
 Question: When analyzing network traffic with Wireshark, which filter would you use to view only HTTP GET requests?
-1) tcp.port == 80 && http.request.method == "GET"
-2) http.request.method == "GET"
-3) tcp contains "GET"
-4) http.method == "GET"
-Answer: 1) tcp.port == 80 && http.request.method == "GET"
+1) passwd{tcp.port == 80 && http.request.method == "GET"}
+2) passwd{http.request.method == "GET"}
+3) passwd{tcp contains "GET"}
+4) passwd{http.method == "GET"}
+Answer: 1) passwd{tcp.port == 80 && http.request.method == "GET"}
